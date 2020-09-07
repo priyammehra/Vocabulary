@@ -2,3 +2,6 @@ This is english Vocabulary
 
 
 Bug is fixed from ug_fix branch.
+
+Just added a new feature form new_vocab branch.
+>>>>>>> new_vocab
